@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Sukanya👋
 
-<!--
-**sukanya-devo/sukanya-devo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Java Developer
+Sydney, Australia
 
-Here are some ideas to get you started:
+##  Technical Expertise
+- Java  (OOP, Collections, Exception Handling)
+- Spring Boot (REST APIs, MVC)
+- HTML, CSS
+- JavaScript
+- -MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- Student Management System (Java + MySQL)
+- REST API using spring Boot
+- Portfolio Website
+
+## contact
+- Email: sukanyagogulamudi31@gmail.com
+- LinkedIn: 
