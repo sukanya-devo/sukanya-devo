@@ -16,6 +16,11 @@ Sydney, Australia
 - REST API using spring Boot
 - Portfolio Website
 
+
+## Career Objective
+  Seeking an entry-level Full Stack Java Developer role in Australia.
+
+
 ## contact
-- Email: sukanyagogulamudi31@gmail.com
-- LinkedIn: 
+ Email: sukanyagogulamudi31@gmail.com
+ LinkedIn: 
