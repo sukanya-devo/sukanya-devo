@@ -8,7 +8,7 @@ Sydney, Australia
 - Spring Boot (REST APIs, MVC)
 - HTML, CSS
 - JavaScript
-- -MySQL
+- MySQL
 - Git & GitHub
 
 ##  Projects
