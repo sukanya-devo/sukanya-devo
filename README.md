@@ -18,7 +18,7 @@ Sydney, Australia
 
 
 ## Career Objective
-  Seeking an entry-level Full Stack Java Developer role in Australia.
+  Seeking an Full Stack Java Developer role in Australia.
 
 
 ## contact
